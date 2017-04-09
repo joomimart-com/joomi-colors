@@ -10,6 +10,11 @@
 * info-*: `info-3`, `info-4`, `info`, `info-6`, `info-7`, `info-8`
 * warning-*: `warning-3`, `warning-4`, `warning`, `warning-6`, `warning-7`, `warning-8`
 * danger-*: `danger-3`, `danger-4`, `danger`, `danger-6`, `danger-7`, `danger-8`
+* default: `default`
+* black: `black`
+* white: `white`
+* muted: `muted`
+* coffee-milk: `coffee-milk`
 ---------------------------------------------------
 * brown-*: `brown-3`, `brown-4`, `brown`, `brown-6`, `brown-7`, `brown-8`
 * red-*: `red-3`, `red-4`, `red`, `red-6`, `red-7`, `red-8`
@@ -26,13 +31,7 @@
 * orange-*: `orange-3`, `orange-4`, `orange`, `orange-6`, `orange-7`, `orange-8`
 * slate-*: `slate-3`, `slate-4`, `slate`, `slate-6`, `slate-7`, `slate-8`
 ---------------------------------------------------
-* default: `default`
-* black: `black`
-* white: `white`
-* coffee-milk: `coffee-milk`
----------------------------------------------------
-
- * light-grey-*: `light-grey-3`, `light-grey-4`, `light-grey`, `light-grey-6`, `light-grey-7`, `light-grey-8`
+* light-grey-*: `light-grey-3`, `light-grey-4`, `light-grey`, `light-grey-6`, `light-grey-7`, `light-grey-8`
 
 
 ## Getting Started
