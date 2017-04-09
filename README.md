@@ -9,14 +9,14 @@
  * white: `white`
  * coffee-milk: `coffee-milk`
  * light-grey-*: `light-grey-3`, `light-grey-4`, `light-grey`, `light-grey-6`, `light-grey-7`, `light-grey-8`
- * ---------------------------------------------------
+---------------------------------------------------
  * grey-*: `grey-3`, `grey-4`, `grey`, `grey-6`, `grey-7`, `grey-8`
  * primary-*: `primary-3`, `primary-4`, `primary`, `primary-6`, `primary-7`, `primary-8`
  * success-*: `success-3`, `success-4`, `success`, `success-6`, `success-7`, `success-8`
  * info-*: `info-3`, `info-4`, `info`, `info-6`, `info-7`, `info-8`
  * warning-*: `warning-3`, `warning-4`, `warning`, `warning-6`, `warning-7`, `warning-8`
  * danger-*: `danger-3`, `danger-4`, `danger`, `danger-6`, `danger-7`, `danger-8`
- * ---------------------------------------------------
+---------------------------------------------------
  * brown-*: `brown-3`, `brown-4`, `brown`, `brown-6`, `brown-7`, `brown-8`
  * red-*: `red-3`, `red-4`, `red`, `red-6`, `red-7`, `red-8`
  * yellow-*: `yellow-3`, `yellow-4`, `yellow`, `yellow-6`, `yellow-7`, `yellow-8`
