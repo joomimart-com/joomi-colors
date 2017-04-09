@@ -3,6 +3,33 @@
 Bootstrap starter template adapted for [joomiColors](https://templates.joomimart.com/demo/free/starter-template/starter-template.html).
 Free One Page HTML Template for Bootstrap 4 [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
 
+## 120+ Colors
+default
+black
+white
+coffee-milk
+grey-*
+light-grey-* (NEW)
+brown-*
+red-*
+primary-*
+yellow-*
+danger-*
+success-*
+warning-*
+info-*
+pink-*
+light-pink-* (NEW)
+violet-*
+purple-*
+indigo-*
+blue-*
+teal-*
+green-*
+lime-green-* (NEW)
+orange-*
+slate-*
+
 ## Getting Started
 
 To begin using this joomiColors.css, choose one of the following options to get started:
