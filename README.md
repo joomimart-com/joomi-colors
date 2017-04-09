@@ -16,9 +16,9 @@
  * danger-*: `danger-3`, `danger-4`, `danger`, `danger-6`, `danger-7`, `danger-8`
  * success-*: `success-3`, `success-4`, `success`, `success-6`, `success-7`, `success-8`
  * warning-*: `warning-3`, `warning-4`, `warning`, `warning-6`, `warning-7`, `warning-8`
-  * primary-*: `primary-3`, `primary-4`, `primary`, `primary-6`, `primary-7`, `primary-8`
+ * primary-*: `primary-3`, `primary-4`, `primary`, `primary-6`, `primary-7`, `primary-8`
  * info: `info-3`, `info-4`, `info`, `info-6`, `info-7`, `info-8`
-  * blue-*: `blue-3`, `blue-4`, `blue`, `blue-6`, `blue-7`, `blue-8`
+ * blue-*: `blue-3`, `blue-4`, `blue`, `blue-6`, `blue-7`, `blue-8`
  * pink-*: `pink-3`, `pink-4`, `pink`, `pink-6`, `pink-7`, `pink-8`
  * light-pink-*: `light-pink-3`, `light-pink-4`, `light-pink`, `light-pink-6`, `light-pink-7`, `light-pink-8`
  * violet-*: `violet-3`, `violet-4`, `violet`, `violet-6`, `violet-7`, `violet-8`
@@ -45,7 +45,7 @@ To begin using this joomiColors.css, choose one of the following options to get 
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/1.0.1/css/joomi-colors.css">
   </head>
-  ```
+  ``` (Recommended)
 2. [Download the latest release on joomi Templates](https://github.com/joomimart-com/joomi-colors/releases)
 3. Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
 
