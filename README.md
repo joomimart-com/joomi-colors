@@ -3,10 +3,9 @@
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
+To begin using this joomiColors.css, choose one of the following options to get started:
 
-### Basic Usage
-* Include the stylesheet on your document's `<head>`
+1. Include the stylesheet on your document's `<head>`
   ```html
   <head>
     <link rel="stylesheet" href="joomi-colors.css">
@@ -18,8 +17,8 @@ To begin using this template, choose one of the following options to get started
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/1.0.1/css/joomi-colors.css">
   </head>
   ```
-* [Download the latest release on joomi Templates](https://github.com/joomimart-com/joomi-colors/releases)
-* Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
+2. [Download the latest release on joomi Templates](https://github.com/joomimart-com/joomi-colors/releases)
+3. Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
 
 ## Bugs and Issues
 
