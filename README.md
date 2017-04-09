@@ -1,7 +1,7 @@
 # joomiColors.css
 ## Demo 
-Bootstrap starter template adapted for [joomiColors](https://templates.joomimart.com/demo/free/starter-template/starter-template.html).
-Free One Page HTML Template for Bootstrap 4 [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
+* Bootstrap starter template adapted for [joomiColors](https://templates.joomimart.com/demo/free/starter-template/starter-template.html).
+* Free One Page HTML Template for Bootstrap 4 [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
 
 ## 130+ Colors:
  * default: `default`
