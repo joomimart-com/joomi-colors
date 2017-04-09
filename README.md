@@ -4,11 +4,11 @@ Bootstrap starter template adapted for [joomiColors](https://templates.joomimart
 Free One Page HTML Template for Bootstrap 4 [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
 
 ## 120+ Colors:
- * default
- * black
- * white
- * coffee-milk
- * grey-* (grey-3, grey-4, grey, grey-6, grey-7, grey-8)
+ * `default`
+ * `black`
+ * `white`
+ * `coffee-milk`
+ * grey-* (`grey-3`, `grey-4`, `grey`, `grey-6`, `grey-7`, `grey-8`)
  * light-grey-* (NEW) (light-grey-3, light-grey-4, light-grey, light-grey-6, light-grey-7, light-grey-8)
  * brown-* (brown-3, brown-4, brown, brown-6, brown-7, brown-8)
  * red-* (red-3, red-4, red, red-6, red-7, red-8)
