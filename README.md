@@ -40,7 +40,7 @@ To begin using this joomiColors.css, choose one of the following options to get 
     <link rel="stylesheet" href="joomi-colors.css">
   </head>
   ```
-  or use the version hosted by [CDN joomiMart](https://cdn.joomimart.com/joomi-colors/1.0.1/css/joomi-colors.css) Recommended
+  or use the version hosted by [CDN joomiMart](https://cdn.joomimart.com/joomi-colors/1.0.1/css/joomi-colors.css) (Recommended)
   ```html
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/1.0.1/css/joomi-colors.css">
