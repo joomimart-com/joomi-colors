@@ -4,32 +4,31 @@ Bootstrap starter template adapted for [joomiColors](https://templates.joomimart
 Free One Page HTML Template for Bootstrap 4 [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html)
 
 ## 120+ Colors:
- * `default`
- * `black`
- * `white`
- * `coffee-milk`
+ * default - `default`
+ * black - `black`
+ * white - `white`
+ * coffee-milk - `coffee-milk`
  * grey-* (`grey-3`, `grey-4`, `grey`, `grey-6`, `grey-7`, `grey-8`)
- * light-grey-* (NEW) (light-grey-3, light-grey-4, light-grey, light-grey-6, light-grey-7, light-grey-8)
- * brown-* (brown-3, brown-4, brown, brown-6, brown-7, brown-8)
- * red-* (red-3, red-4, red, red-6, red-7, red-8)
-
- * yellow-* (yellow-3, yellow-4, yellow, yellow-6, yellow-7, yellow-8)
- * danger-* (danger-3, danger-4, danger, danger-6, danger-7, danger-8)
- * success-* (success-3, success-4, success, success-6, success-7, success-8)
- * warning-* (warning-3, warning-4, warning, warning-6, warning-7, warning-8)
-  * primary-* (primary-3, primary-4, primary, primary-6, primary-7, primary-8)
- * info-* (info-3, info-4, info, info-6, info-7, info-8)
-  * blue-* (blue-3, blue-4, blue, blue-6, blue-7, blue-8)
- * pink-* (pink-3, pink-4, pink, pink-6, pink-7, pink-8)
- * light-pink-* (NEW) (light-pink-3, light-pink-4, light-pink, light-pink-6, light-pink-7, light-pink-8)
- * violet-* (violet-3, violet-4, violet, violet-6, violet-7, violet-8)
- * purple-* (purple-3, purple-4, purple, purple-6, purple-7, purple-8)
- * indigo-* (indigo-3, indigo-4, indigo, indigo-6, indigo-7, indigo-8)
- * teal-* (teal-3, teal-4, teal, teal-6, teal-7, teal-8)
- * green-* (green-3, green-4, green, green-6, green-7, green-8)
- * lime-green-* (NEW) (lime-green-3, lime-green-4, lime-green, lime-green-6, lime-green-7, lime-green-8)
- * orange-* (orange-3, orange-4, orange, orange-6, orange-7, orange-8)
- * slate-* (slate-3, slate-4, slate, slate-6, slate-7, slate-8)
+ * light-grey-* (NEW) (`light-grey-3`, `light-grey-4`, `light-grey`, `light-grey-6`, `light-grey-7`, `light-grey-8`)
+ * brown-* (`brown-3`, `brown-4`, `brown`, `brown-6`, `brown-7`, `brown-8`)
+ * red-* (`red-3`, `red-4`, `red`, `red-6`, `red-7`, `red-8`)
+ * yellow-* (`yellow-3`, `yellow-4`, `yellow`, `yellow-6`, `yellow-7`, `yellow-8`)
+ * danger-* (`danger-3`, `danger-4`, `danger`, `danger-6`, `danger-7`, `danger-8`)
+ * success-* (`success-3`, `success-4`, `success`, `success-6`, `success-7`, `success-8`)
+ * warning-* (`warning-3`, `warning-4`, `warning`, `warning-6`, `warning-7`, `warning-8`)
+  * primary-* (`primary-3`, `primary-4`, `primary`, `primary-6`, `primary-7`, `primary-8`)
+ * info-* (`info-3`, `info-4`, `info`, `info-6`, `info-7`, `info-8`)
+  * blue-* (`blue-3`, `blue-4`, `blue`, `blue-6`, `blue-7`, `blue-8`)
+ * pink-* (`pink-3`, `pink-4`, `pink`, `pink-6`, `pink-7`, `pink-8`)
+ * light-pink-* (NEW) (`light-pink-3`, `light-pink-4`, `light-pink`, `light-pink-6`, `light-pink-7`, `light-pink-8`)
+ * violet-* (`violet-3`, `violet-4`, `violet`, `violet-6`, `violet-7`, `violet-8`)
+ * purple-* (`purple-3`, `purple-4`, `purple`, `purple-6`, `purple-7`, `purple-8`)
+ * indigo-* (`indigo-3`, `indigo-4`, `indigo`, `indigo-6`, `indigo-7`, `indigo-8`)
+ * teal-* (`teal-3`, `teal-4`, `teal`, `teal-6`, `teal-7`, `teal-8`)
+ * green-* (`green-3`, `green-4`, `green`, `green-6`, `green-7`, `green-8`)
+ * lime-green-* (NEW) (`lime-green-3`, `lime-green-4`, `lime-green`, `lime-green-6`, `lime-green-7`, `lime-green-8`)
+ * orange-* (`orange-3`, `orange-4`, `orange`, `orange-6`, `orange-7`, `orange-8`)
+ * slate-* (`slate-3`, `slate-4`, `slate`, `slate-6`, `slate-7`, `slate-8`)
 
 ## Getting Started
 
