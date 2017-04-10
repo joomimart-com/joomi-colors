@@ -6,30 +6,12 @@ URI: https://github.com/joomimart-com/joomi-colors
 Author: joomiTemplates
 Author URI: [joomiTemplates](https://templates.joomimart.com/)
 Licensed under [MIT](https://github.com/joomimart-com/joomi-colors/blob/master/LICENSE)
-*/
-/*
--- Application in a real project --
-<div class="bg-white bg-hover-white text-primary-xxl link-primary-xxl link-hover-primary-xxl a-primary-xxl a-hover-primary-xxl btn-primary-xxl btn-hover-primary-xxl">
-Text
-</div>
 
 ## 130+ Colors:
 * default
 * black
 * white
 * coffee-milk
-
-2 - xxs
-------------
-3 - xs
-4 - sm
-5 - md
-6 - lg
-7 - xl
-8 - xxl
-------------
-9 - xxxl
-
 * grey-* (xxs, xs, sm, md, lg, xl, xxl, xxxl)
 * light-grey-* (xxs, xs, sm, md, lg, xl, xxl, xxxl)
 * brown-* (xxs, xs, sm, md, lg, xl, xxl, xxxl)
@@ -52,25 +34,30 @@ Text
 * orange-* (xxs, xs, sm, md, lg, xl, xxl, xxxl)
 * slate-* (xxs, xs, sm, md, lg, xl, xxl, xxxl)
 
+-- Application in a real project --
+<div class="bg-white bg-hover-white text-primary-xxl link-primary-xxl link-hover-primary-xxl a-primary-xxl a-hover-primary-xxl btn-primary-xxl btn-hover-primary-xxl">
+	Text
+	</div>
+
 -- Application in the demo-panel --
 <div class="control-background bg-white">
-<div class="control-bg-hover bg-hover-white">
-<div class="control-text text-primary-xxl">
-<div class="control-link link-primary-xxl">
-<div class="control-link-hover link-hover-primary-xxl">
-<div class="control-a a-primary-xxl">
-<div class="control-a-hover a-hover-primary-xxl">
-<div class="control-button btn-primary-xxl">
-<div class="control-btn-hover btn-hover-primary-xxl">
-Text
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+	<div class="control-bg-hover bg-hover-white">
+		<div class="control-text text-primary-xxl">
+			<div class="control-link link-primary-xxl">
+				<div class="control-link-hover link-hover-primary-xxl">
+					<div class="control-a a-primary-xxl">
+						<div class="control-a-hover a-hover-primary-xxl">
+							<div class="control-button btn-primary-xxl">
+								<div class="control-btn-hover btn-hover-primary-xxl">
+									Text
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 Classes for color switching the demo-panel:
