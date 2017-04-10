@@ -1,7 +1,7 @@
 /*
 Name: joomiColors
 Version: v1.0.2.Alfa
-Copyright 2014-xxs017 joomiMart
+Copyright 2014-2017 joomiMart
 URI: https://github.com/joomimart-com/joomi-colors
 Author: joomiTemplates
 Author URI: [joomiTemplates](https://templates.joomimart.com/)
@@ -174,6 +174,26 @@ control-border-bottom-*
 .br-right-white {border-right-color:#fff}
 .br-bottom-white {border-bottom-color:#fff}
 .br-left-white {border-left-color:#fff}
+
+/* coffee-milk */
+.text-coffee-milk,.text-coffee-milk.text-color,.text-coffee-milk:focus,.text-coffee-milk:hover{color:#e2d6d8}
+.link-coffee-milk {color:#e2d6d8}
+.link-hover-coffee-milk:hover {color:#e2d6d8;}
+.a-coffee-milk a {color:#e2d6d8;}
+.a-hover-coffee-milk a:hover, .a-hover-coffee-milk a:focus {color:#c2a9ad;}
+.btn-coffee-milk .btn {background-color:#e2d6d8; border-color:#e2d6d8;}
+.btn-coffee-milk .btn .btn-hover:hover {background-color:#8D6E63; border-color:#8D6E63;}
+.input-coffee-milk input, .input-coffee-milk input:focus {background-color:#e2d6d8;border-color:#4E342E;color:#4E342E;}
+.bg-coffee-milk {background-color:#e2d6d8;}
+.bg-hover-coffee-milk:hover {background-color:#e2d6d8;}
+.bg-coffee-milk-transparent {background-color:rgba(226, 214, 216, 0.5);}
+.countdown-coffee-milk .num {background-color:#e2d6d8; color:#8D6E63}
+.countdown-coffee-milk .text {background-color:#8D6E63; color:#e2d6d8}
+.br-coffee-milk  {border-color:#e2d6d8}
+.br-top-coffee-milk  {border-top-color:#e2d6d8}
+.br-right-coffee-milk  {border-right-color:#e2d6d8}
+.br-bottom-coffee-milk  {border-bottom-color:#e2d6d8}
+.br-left-coffee-milk  {border-left-color:#e2d6d8}
 
 /* ----------------------------- light-grey ----------------------------- */
 /* light-grey-xxs */
