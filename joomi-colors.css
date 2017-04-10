@@ -99,7 +99,7 @@ control-border-bottom-*
 .link-blue-jeans {color:#5BC0EB}
 .link-hover-blue-jeans:hover {color:#5BC0EB;}
 .a-blue-jeans a {color:#5BC0EB;}
-.a-hover-black a:hover, .a-hover-blue-jeans a:focus {color:#5BC0EB;}
+.a-hover-blue-jeans a:hover, .a-hover-blue-jeans a:focus {color:#5BC0EB;}
 .btn-blue-jeans .btn {background-color:#5BC0EB; border-color:#5BC0EB;}
 .btn-blue-jeans .btn .btn-hover:hover {background-color:#5BC0EB; border-color:#5BC0EB;}
 .input-blue-jeans input, .input-blue-jeans input:focus {background-color:#D2EDF9;color:#5BC0EB;border-color:#5BC0EB}
@@ -120,7 +120,7 @@ control-border-bottom-*
 .link-gargoyle-gas {color:#FDE74C}
 .link-hover-gargoyle-gas:hover {color:#FDE74C;}
 .a-gargoyle-gas a {color:#FDE74C;}
-.a-hover-black a:hover, .a-hover-gargoyle-gas a:focus {color:#FDE74C;}
+.a-hover-gargoyle-gas a:hover, .a-hover-gargoyle-gas a:focus {color:#FDE74C;}
 .btn-gargoyle-gas .btn {background-color:#FDE74C; border-color:#FDE74C;}
 .btn-gargoyle-gas .btn .btn-hover:hover {background-color:#FDE74C; border-color:#FDE74C;}
 .input-gargoyle-gas input, .input-gargoyle-gas input:focus {background-color:#FEF8CE;color:#FDE74C;border-color:#FDE74C}
@@ -141,7 +141,7 @@ control-border-bottom-*
 .link-android-green {color:#9BC53D}
 .link-hover-android-green:hover {color:#9BC53D;}
 .a-android-green a {color:#9BC53D;}
-.a-hover-black a:hover, .a-hover-android-green a:focus {color:#9BC53D;}
+.a-hover-android-green a:hover, .a-hover-android-green a:focus {color:#9BC53D;}
 .btn-android-green .btn {background-color:#9BC53D; border-color:#9BC53D;}
 .btn-android-green .btn .btn-hover:hover {background-color:#9BC53D; border-color:#9BC53D;}
 .input-android-green input, .input-android-green input:focus {background-color:#E3EFCA;color:#9BC53D;border-color:#9BC53D}
@@ -162,7 +162,7 @@ control-border-bottom-*
 .link-flame {color:#E55934}
 .link-hover-flame:hover {color:#E55934;}
 .a-flame a {color:#E55934;}
-.a-hover-black a:hover, .a-hover-flame a:focus {color:#E55934;}
+.a-hover-flame a:hover, .a-hover-flame a:focus {color:#E55934;}
 .btn-flame .btn {background-color:#E55934; border-color:#E55934;}
 .btn-flame .btn .btn-hover:hover {background-color:#E55934; border-color:#E55934;}
 .input-flame input, .input-flame input:focus {background-color:#F7D1C7;color:#E55934;border-color:#E55934}
@@ -183,7 +183,7 @@ control-border-bottom-*
 .link-princ-orange {color:#FA7921}
 .link-hover-princ-orange:hover {color:#FA7921;}
 .a-princ-orange a {color:#FA7921;}
-.a-hover-black a:hover, .a-hover-princ-orange a:focus {color:#FA7921;}
+.a-hover-princ-orange a:hover, .a-hover-princ-orange a:focus {color:#FA7921;}
 .btn-princ-orange .btn {background-color:#FA7921; border-color:#FA7921;}
 .btn-princ-orange .btn .btn-hover:hover {background-color:#FA7921; border-color:#FA7921;}
 .input-princ-orange input, .input-princ-orange input:focus {background-color:#FDDAC2;color:#FA7921;border-color:#FA7921}
@@ -285,7 +285,7 @@ control-border-bottom-*
 .link-white {color:#fff}
 .link-hover-white:hover {color:#fff;}
 .a-white a {color:#fff;}
-.a-hover-black a:hover, .a-hover-white a:focus {color:#fff;}
+.a-hover-white a:hover, .a-hover-white a:focus {color:#fff;}
 .btn-white .btn {background-color:#fff; border-color:#fff;}
 .btn-white .btn .btn-hover:hover {background-color:#fff; border-color:#fff;}
 .input-white input, .input-white input:focus {background-color:#ccc;color:#fff;border-color:#fff}
@@ -307,7 +307,7 @@ control-border-bottom-*
 .link-light-grey-xxs {color:#F7F7F7}
 .link-hover-light-grey-xxs:hover {color:#F7F7F7;}
 .a-light-grey-xxs a {color:#F7F7F7;}
-.a-hover-black a:hover, .a-hover-light-grey-xxs a:focus {color:#F7F7F7;}
+.a-hover-light-grey-xxs a:hover, .a-hover-light-grey-xxs a:focus {color:#F7F7F7;}
 .btn-light-grey-xxs .btn {background-color:#F7F7F7; border-color:#F7F7F7;}
 .btn-light-grey-xxs .btn .btn-hover:hover {background-color:#F7F7F7; border-color:#F7F7F7;}
 .input-light-grey-xxs input, .input-light-grey-xxs input:focus {background-color:#fff;color:#F7F7F7;border-color:#F7F7F7}
@@ -327,7 +327,7 @@ control-border-bottom-*
 .link-light-grey-xs {color:#F7F7F7}
 .link-hover-light-grey-xs:hover {color:#F7F7F7;}
 .a-light-grey-xs a {color:#F7F7F7;}
-.a-hover-black a:hover, .a-hover-light-grey-xs a:focus {color:#F7F7F7;}
+.a-hover-light-grey-xs a:hover, .a-hover-light-grey-xs a:focus {color:#F7F7F7;}
 .btn-light-grey-xs .btn {background-color:#F7F7F7; border-color:#F7F7F7;}
 .btn-light-grey-xs .btn .btn-hover:hover {background-color:#F7F7F7; border-color:#F7F7F7;}
 .input-light-grey-xs input, .input-light-grey-xs input:focus {background-color:#fff;color:#F7F7F7;border-color:#F7F7F7}
@@ -347,7 +347,7 @@ control-border-bottom-*
 .link-light-grey-sm {color:#F6F6F6}
 .link-hover-light-grey-sm:hover {color:#F6F6F6;}
 .a-light-grey-sm a {color:#F6F6F6;}
-.a-hover-black a:hover, .a-hover-light-grey-sm a:focus {color:#F6F6F6;}
+.a-hover-light-grey-sm a:hover, .a-hover-light-grey-sm a:focus {color:#F6F6F6;}
 .btn-light-grey-sm .btn {background-color:#F6F6F6; border-color:#F6F6F6;}
 .btn-light-grey-sm .btn .btn-hover:hover {background-color:#F6F6F6; border-color:#F6F6F6;}
 .input-light-grey-sm input, .input-light-grey-sm input:focus {background-color:#fff;color:#F6F6F6;border-color:#F6F6F6}
@@ -4161,7 +4161,7 @@ z-index: 12;
 background: #fff;
 content: "";
 height: 155px;
-left: -xl5px;
+left: -75px;
 opacity: .2;
 position: absolute;
 top: -50px;
@@ -4281,7 +4281,7 @@ z-index: 12;
 background: #fff;
 content: "";
 height: 155px;
-left: -xl5px;
+left: -75px;
 opacity: .2;
 position: absolute;
 top: -50px;
