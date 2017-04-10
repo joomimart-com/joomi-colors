@@ -4,10 +4,6 @@
 * [Bootstrap starter template adapted for joomiColors.css](https://templates.joomimart.com/demo/free/starter-template/starter-template.html)
 * [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) - Free One Page HTML Template for Bootstrap 4 adapted for joomiColors.css
 
-## Collection:
-* [Collection April 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-april-2017.css)
-* [Collection March 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-march-2017.css)
-
 ## 170+ Colors:
 * grey-*: `grey-xs`, `grey-sm`, `grey-md`, `grey-lg`, `grey-xl`, `grey-xxl`
 * primary-*: `primary-xs`, `primary-sm`, `primary-md`, `primary-lg`, `primary-xl`, `primary-xxl`
@@ -56,6 +52,20 @@ To begin using this joomiColors.css, choose one of the following options to get 
   ```
 2. [Download the latest release on joomi Templates](https://github.com/joomimart-com/joomi-colors/releases)
 3. Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
+
+## Collection:
+* [Collection April 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-april-2017.css)
+ ```html
+  <head>
+    <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-april-2017.css">
+  </head>
+  ```
+* [Collection March 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-march-2017.css)
+ ```html
+  <head>
+    <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-march-2017.css">
+  </head>
+  ```
 
 ## Bugs and Issues
 
