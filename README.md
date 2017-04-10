@@ -1,8 +1,8 @@
 # joomiColors.css
 ## Demo 
 * [Demo](https://cdn.joomimart.com/joomi-colors/1.0.2/colors-demo.html)
-* [Bootstrap starter template adapted for joomiColors](https://templates.joomimart.com/demo/free/starter-template/starter-template.html).
-* [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) - Free One Page HTML Template for Bootstrap 4
+* [Bootstrap starter template adapted for joomiColors.css](https://templates.joomimart.com/demo/free/starter-template/starter-template.html)
+* [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) - Free One Page HTML Template for Bootstrap 4 adapted for joomiColors.css
 
 ## 130+ Colors:
 * grey-*: `grey-3`, `grey-4`, `grey`, `grey-6`, `grey-7`, `grey-8`
