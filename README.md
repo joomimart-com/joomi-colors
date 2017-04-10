@@ -54,13 +54,13 @@ To begin using this joomiColors.css, choose one of the following options to get 
 3. Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
 
 ## Collection:
-* [Collection April 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-april-2017.css)
+* [Collection April 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-april-2017.css) [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
  ```html
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-april-2017.css">
   </head>
   ```
-* [Collection March 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-march-2017.css)
+* [Collection March 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-march-2017.css) [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
  ```html
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-march-2017.css">
