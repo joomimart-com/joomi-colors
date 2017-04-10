@@ -5,34 +5,33 @@
 * [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) - Free One Page HTML Template for Bootstrap 4 adapted for joomiColors.css
 
 ## 130+ Colors:
-* grey-*: `grey-3`, `grey-4`, `grey`, `grey-6`, `grey-7`, `grey-8`
-* primary-*: `primary-3`, `primary-4`, `primary`, `primary-6`, `primary-7`, `primary-8`
-* success-*: `success-3`, `success-4`, `success`, `success-6`, `success-7`, `success-8`
-* info-*: `info-3`, `info-4`, `info`, `info-6`, `info-7`, `info-8`
-* warning-*: `warning-3`, `warning-4`, `warning`, `warning-6`, `warning-7`, `warning-8`
-* danger-*: `danger-3`, `danger-4`, `danger`, `danger-6`, `danger-7`, `danger-8`
+* grey-*: `grey-xs`, `grey-sm`, `grey-md`, `grey-lg`, `grey-xl`, `grey-xxl`
+* primary-*: `primary-xs`, `primary-sm`, `primary-md`, `primary-lg`, `primary-xl`, `primary-xxl`
+* success-*: `success-xs`, `success-sm`, `success-md`, `success-lg`, `success-xl`, `success-xxl`
+* info-*: `info-xs`, `info-sm`, `info-md`, `info-lg`, `info-xl`, `info-xxl`
+* warning-*: `warning-xs`, `warning-sm`, `warning-md`, `warning-lg`, `warning-xl`, `warning-xxl`
+* danger-*: `danger-xs`, `danger-sm`, `danger-md`, `danger-lg`, `danger-xl`, `danger-xxl`
 * default: `default`
 * black: `black`
 * white: `white`
 * muted: `muted`
 * coffee-milk: `coffee-milk`
 ---------------------------------------------------
-* brown-*: `brown-3`, `brown-4`, `brown`, `brown-6`, `brown-7`, `brown-8`
-* red-*: `red-3`, `red-4`, `red`, `red-6`, `red-7`, `red-8`
-* yellow-*: `yellow-3`, `yellow-4`, `yellow`, `yellow-6`, `yellow-7`, `yellow-8`
-* blue-*: `blue-3`, `blue-4`, `blue`, `blue-6`, `blue-7`, `blue-8`
-* pink-*: `pink-3`, `pink-4`, `pink`, `pink-6`, `pink-7`, `pink-8`
-* light-pink-*: `light-pink-3`, `light-pink-4`, `light-pink`, `light-pink-6`, `light-pink-7`, `light-pink-8`
-* violet-*: `violet-3`, `violet-4`, `violet`, `violet-6`, `violet-7`, `violet-8`
-* purple-*: `purple-3`, `purple-4`, `purple`, `purple-6`, `purple-7`, `purple-8`
-* indigo-*: `indigo-3`, `indigo-4`, `indigo`, `indigo-6`, `indigo-7`, `indigo-8`
-* teal-*: `teal-3`, `teal-4`, `teal`, `teal-6`, `teal-7`, `teal-8`
-* green-*: `green-3`, `green-4`, `green`, `green-6`, `green-7`, `green-8`
-* lime-green-*: `lime-green-3`, `lime-green-4`, `lime-green`, `lime-green-6`, `lime-green-7`, `lime-green-8`
-* orange-*: `orange-3`, `orange-4`, `orange`, `orange-6`, `orange-7`, `orange-8`
-* slate-*: `slate-3`, `slate-4`, `slate`, `slate-6`, `slate-7`, `slate-8`
----------------------------------------------------
-* light-grey-*: `light-grey-3`, `light-grey-4`, `light-grey`, `light-grey-6`, `light-grey-7`, `light-grey-8`
+* brown-*: `brown-xs`, `brown-sm`, `brown-md`, `brown-lg`, `brown-xl`, `brown-xxl`
+* red-*: `red-xs`, `red-sm`, `red-md`, `red-lg`, `red-xl`, `red-xxl`
+* yellow-*: `yellow-xs`, `yellow-sm`, `yellow-md`, `yellow-lg`, `yellow-xl`, `yellow-xxl`
+* blue-*: `blue-xs`, `blue-sm`, `blue-md`, `blue-lg`, `blue-xl`, `blue-xxl`
+* pink-*: `pink-xs`, `pink-sm`, `pink-md`, `pink-lg`, `pink-xl`, `pink-xxl`
+* light-pink-*: `light-pink-xs`, `light-pink-sm`, `light-pink-md`, `light-pink-lg`, `light-pink-xl`, `light-pink-xxl`
+* violet-*: `violet-xs`, `violet-sm`, `violet-md`, `violet-lg`, `violet-xl`, `violet-xxl`
+* purple-*: `purple-xs`, `purple-sm`, `purple-md`, `purple-lg`, `purple-xl`, `purple-xxl`
+* indigo-*: `indigo-xs`, `indigo-sm`, `indigo-md`, `indigo-lg`, `indigo-xl`, `indigo-xxl`
+* teal-*: `teal-xs`, `teal-sm`, `teal-md`, `teal-lg`, `teal-xl`, `teal-xxl`
+* green-*: `green-xs`, `green-sm`, `green-md`, `green-lg`, `green-xl`, `green-xxl`
+* lime-green-*: `lime-green-xs`, `lime-green-sm`, `lime-green-md`, `lime-green-lg`, `lime-green-xl`, `lime-green-xxl`
+* orange-*: `orange-xs`, `orange-sm`, `orange-md`, `orange-lg`, `orange-xl`, `orange-xxl`
+* slate-*: `slate-xs`, `slate-sm`, `slate-md`, `slate-lg`, `slate-xl`, `slate-xxl`
+* light-grey-*: `light-grey-xs`, `light-grey-sm`, `light-grey-md`, `light-grey-lg`, `light-grey-xl`, `light-grey-xxl`
 
 
 ## Getting Started
