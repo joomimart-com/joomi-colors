@@ -17,12 +17,12 @@ Licensed under [MIT](https://github.com/joomimart-com/joomi-colors/blob/master/L
 .a-hover-blue-jeans a:hover, .a-hover-blue-jeans a:focus {color:#5BC0EB;}
 .btn-blue-jeans .btn {background-color:#5BC0EB; border-color:#5BC0EB;}
 .btn-blue-jeans .btn .btn-hover:hover {background-color:#5BC0EB; border-color:#5BC0EB;}
-.input-blue-jeans input, .input-blue-jeans input:focus {background-color:#D2EDF9;color:#5BC0EB;border-color:#5BC0EB}
+.input-blue-jeans input, .input-blue-jeans input:focus {background-color:#fff;border-color:#5BC0EB}
 .bg-blue-jeans {background-color:#5BC0EB;}
 .bg-hover-blue-jeans:hover {background-color:#5BC0EB;}
 .bg-blue-jeans-transparent {background-color:rgba(0, 0, 0, 0.5);}
-.countdown-blue-jeans .num {background-color:#5BC0EB; color:#D2EDF9}
-.countdown-blue-jeans .text {background-color:#D2EDF9; color:#5BC0EB}
+.countdown-blue-jeans .num {background-color:#5BC0EB; color:#fff}
+.countdown-blue-jeans .text {background-color:#fff; color:#5BC0EB}
 .br-blue-jeans {border-color:#5BC0EB}
 .br-top-blue-jeans {border-top-color:#5BC0EB}
 .br-right-blue-jeans {border-right-color:#5BC0EB}
@@ -38,12 +38,12 @@ Licensed under [MIT](https://github.com/joomimart-com/joomi-colors/blob/master/L
 .a-hover-gargoyle-gas a:hover, .a-hover-gargoyle-gas a:focus {color:#FDE74C;}
 .btn-gargoyle-gas .btn {background-color:#FDE74C; border-color:#FDE74C;}
 .btn-gargoyle-gas .btn .btn-hover:hover {background-color:#FDE74C; border-color:#FDE74C;}
-.input-gargoyle-gas input, .input-gargoyle-gas input:focus {background-color:#FEF8CE;color:#FDE74C;border-color:#FDE74C}
+.input-gargoyle-gas input, .input-gargoyle-gas input:focus {background-color:#fff;border-color:#FDE74C}
 .bg-gargoyle-gas {background-color:#FDE74C;}
 .bg-hover-gargoyle-gas:hover {background-color:#FDE74C;}
 .bg-gargoyle-gas-transparent {background-color:rgba(0, 0, 0, 0.5);}
-.countdown-gargoyle-gas .num {background-color:#FDE74C; color:#FEF8CE}
-.countdown-gargoyle-gas .text {background-color:#FEF8CE; color:#FDE74C}
+.countdown-gargoyle-gas .num {background-color:#FDE74C; color:#fff}
+.countdown-gargoyle-gas .text {background-color:#fff; color:#FDE74C}
 .br-gargoyle-gas {border-color:#FDE74C}
 .br-top-gargoyle-gas {border-top-color:#FDE74C}
 .br-right-gargoyle-gas {border-right-color:#FDE74C}
@@ -59,12 +59,12 @@ Licensed under [MIT](https://github.com/joomimart-com/joomi-colors/blob/master/L
 .a-hover-android-green a:hover, .a-hover-android-green a:focus {color:#9BC53D;}
 .btn-android-green .btn {background-color:#9BC53D; border-color:#9BC53D;}
 .btn-android-green .btn .btn-hover:hover {background-color:#9BC53D; border-color:#9BC53D;}
-.input-android-green input, .input-android-green input:focus {background-color:#E3EFCA;color:#9BC53D;border-color:#9BC53D}
+.input-android-green input, .input-android-green input:focus {background-color:#fff;border-color:#9BC53D}
 .bg-android-green {background-color:#9BC53D;}
 .bg-hover-android-green:hover {background-color:#9BC53D;}
 .bg-android-green-transparent {background-color:rgba(0, 0, 0, 0.5);}
-.countdown-android-green .num {background-color:#9BC53D; color:#E3EFCA}
-.countdown-android-green .text {background-color:#E3EFCA; color:#9BC53D}
+.countdown-android-green .num {background-color:#9BC53D; color:#fff}
+.countdown-android-green .text {background-color:#fff; color:#9BC53D}
 .br-android-green {border-color:#9BC53D}
 .br-top-android-green {border-top-color:#9BC53D}
 .br-right-android-green {border-right-color:#9BC53D}
@@ -80,12 +80,12 @@ Licensed under [MIT](https://github.com/joomimart-com/joomi-colors/blob/master/L
 .a-hover-flame a:hover, .a-hover-flame a:focus {color:#E55934;}
 .btn-flame .btn {background-color:#E55934; border-color:#E55934;}
 .btn-flame .btn .btn-hover:hover {background-color:#E55934; border-color:#E55934;}
-.input-flame input, .input-flame input:focus {background-color:#F7D1C7;color:#E55934;border-color:#E55934}
+.input-flame input, .input-flame input:focus {background-color:#fff;border-color:#E55934}
 .bg-flame {background-color:#E55934;}
 .bg-hover-flame:hover {background-color:#E55934;}
 .bg-flame-transparent {background-color:rgba(0, 0, 0, 0.5);}
-.countdown-flame .num {background-color:#E55934; color:#F7D1C7}
-.countdown-flame .text {background-color:#F7D1C7; color:#E55934}
+.countdown-flame .num {background-color:#E55934; color:#fff}
+.countdown-flame .text {background-color:#fff; color:#E55934}
 .br-flame {border-color:#E55934}
 .br-top-flame {border-top-color:#E55934}
 .br-right-flame {border-right-color:#E55934}
@@ -101,14 +101,119 @@ Licensed under [MIT](https://github.com/joomimart-com/joomi-colors/blob/master/L
 .a-hover-princ-orange a:hover, .a-hover-princ-orange a:focus {color:#FA7921;}
 .btn-princ-orange .btn {background-color:#FA7921; border-color:#FA7921;}
 .btn-princ-orange .btn .btn-hover:hover {background-color:#FA7921; border-color:#FA7921;}
-.input-princ-orange input, .input-princ-orange input:focus {background-color:#FDDAC2;color:#FA7921;border-color:#FA7921}
+.input-princ-orange input, .input-princ-orange input:focus {background-color:#fff;border-color:#FA7921}
 .bg-princ-orange {background-color:#FA7921;}
 .bg-hover-princ-orange:hover {background-color:#FA7921;}
 .bg-princ-orange-transparent {background-color:rgba(0, 0, 0, 0.5);}
-.countdown-princ-orange .num {background-color:#FA7921; color:#FDDAC2}
-.countdown-princ-orange .text {background-color:#FDDAC2; color:#FA7921}
+.countdown-princ-orange .num {background-color:#FA7921; color:#fff}
+.countdown-princ-orange .text {background-color:#fff; color:#FA7921}
 .br-princ-orange {border-color:#FA7921}
 .br-top-princ-orange {border-top-color:#FA7921}
 .br-right-princ-orange {border-right-color:#FA7921}
 .br-bottom-princ-orange {border-bottom-color:#FA7921}
 .br-left-princ-orange {border-left-color:#FA7921}
+
+/* mikado-yellow */
+.text-mikado-yellow,.text-mikado-yellow.text-color,.text-mikado-yellow:focus,.text-mikado-yellow:hover{color:#FFBE0B}
+.text-mikado-yellow p {color:#FFBE0B}
+.link-mikado-yellow {color:#FFBE0B}
+.link-hover-mikado-yellow:hover {color:#FFBE0B;}
+.a-mikado-yellow a {color:#FFBE0B;}
+.a-hover-mikado-yellow a:hover, .a-hover-mikado-yellow a:focus {color:#FFBE0B;}
+.btn-mikado-yellow .btn {background-color:#FFBE0B; border-color:#FFBE0B;}
+.btn-mikado-yellow .btn .btn-hover:hover {background-color:#FFBE0B; border-color:#FFBE0B;}
+.input-mikado-yellow input, .input-mikado-yellow input:focus {background-color:#fff;border-color:#FFBE0B}
+.bg-mikado-yellow {background-color:#FFBE0B;}
+.bg-hover-mikado-yellow:hover {background-color:#FFBE0B;}
+.bg-mikado-yellow-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-mikado-yellow .num {background-color:#FFBE0B; color:#fff}
+.countdown-mikado-yellow .text {background-color:#fff; color:#FFBE0B}
+.br-mikado-yellow {border-color:#FFBE0B}
+.br-top-mikado-yellow {border-top-color:#FFBE0B}
+.br-right-mikado-yellow {border-right-color:#FFBE0B}
+.br-bottom-mikado-yellow {border-bottom-color:#FFBE0B}
+.br-left-mikado-yellow {border-left-color:#FFBE0B}
+
+/* peach */
+.text-peach,.text-peach.text-color,.text-peach:focus,.text-peach:hover{color:#FB5607}
+.text-peach p {color:#FB5607}
+.link-peach {color:#FB5607}
+.link-hover-peach:hover {color:#FB5607;}
+.a-peach a {color:#FB5607;}
+.a-hover-peach a:hover, .a-hover-peach a:focus {color:#FB5607;}
+.btn-peach .btn {background-color:#FB5607; border-color:#FB5607;}
+.btn-peach .btn .btn-hover:hover {background-color:#FB5607; border-color:#FB5607;}
+.input-peach input, .input-peach input:focus {background-color:#fff;border-color:#FB5607}
+.bg-peach {background-color:#FB5607;}
+.bg-hover-peach:hover {background-color:#FB5607;}
+.bg-peach-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-peach .num {background-color:#FB5607; color:#fff}
+.countdown-peach .text {background-color:#fff; color:#FB5607}
+.br-peach {border-color:#FB5607}
+.br-top-peach {border-top-color:#FB5607}
+.br-right-peach {border-right-color:#FB5607}
+.br-bottom-peach {border-bottom-color:#FB5607}
+.br-left-peach {border-left-color:#FB5607}
+
+/* vivid-raspberry */
+.text-vivid-raspberry,.text-vivid-raspberry.text-color,.text-vivid-raspberry:focus,.text-vivid-raspberry:hover{color:#FF006E}
+.text-vivid-raspberry p {color:#FF006E}
+.link-vivid-raspberry {color:#FF006E}
+.link-hover-vivid-raspberry:hover {color:#FF006E;}
+.a-vivid-raspberry a {color:#FF006E;}
+.a-hover-vivid-raspberry a:hover, .a-hover-vivid-raspberry a:focus {color:#FF006E;}
+.btn-vivid-raspberry .btn {background-color:#FF006E; border-color:#FF006E;}
+.btn-vivid-raspberry .btn .btn-hover:hover {background-color:#FF006E; border-color:#FF006E;}
+.input-vivid-raspberry input, .input-vivid-raspberry input:focus {background-color:#fff;border-color:#FF006E}
+.bg-vivid-raspberry {background-color:#FF006E;}
+.bg-hover-vivid-raspberry:hover {background-color:#FF006E;}
+.bg-vivid-raspberry-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-vivid-raspberry .num {background-color:#FF006E; color:#fff}
+.countdown-vivid-raspberry .text {background-color:#fff; color:#FF006E}
+.br-vivid-raspberry {border-color:#FF006E}
+.br-top-vivid-raspberry {border-top-color:#FF006E}
+.br-right-vivid-raspberry {border-right-color:#FF006E}
+.br-bottom-vivid-raspberry {border-bottom-color:#FF006E}
+.br-left-vivid-raspberry {border-left-color:#FF006E}
+
+/* blue-violet */
+.text-blue-violet,.text-blue-violet.text-color,.text-blue-violet:focus,.text-blue-violet:hover{color:#8338EC}
+.text-blue-violet p {color:#8338EC}
+.link-blue-violet {color:#8338EC}
+.link-hover-blue-violet:hover {color:#8338EC;}
+.a-blue-violet a {color:#8338EC;}
+.a-hover-blue-violet a:hover, .a-hover-blue-violet a:focus {color:#8338EC;}
+.btn-blue-violet .btn {background-color:#8338EC; border-color:#8338EC;}
+.btn-blue-violet .btn .btn-hover:hover {background-color:#8338EC; border-color:#8338EC;}
+.input-blue-violet input, .input-blue-violet input:focus {background-color:#fff;border-color:#8338EC}
+.bg-blue-violet {background-color:#8338EC;}
+.bg-hover-blue-violet:hover {background-color:#8338EC;}
+.bg-blue-violet-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-blue-violet .num {background-color:#8338EC; color:#fff}
+.countdown-blue-violet .text {background-color:#fff; color:#8338EC}
+.br-blue-violet {border-color:#8338EC}
+.br-top-blue-violet {border-top-color:#8338EC}
+.br-right-blue-violet {border-right-color:#8338EC}
+.br-bottom-blue-violet {border-bottom-color:#8338EC}
+.br-left-blue-violet {border-left-color:#8338EC}
+
+/* brilliant-azure */
+.text-brilliant-azure,.text-brilliant-azure.text-color,.text-brilliant-azure:focus,.text-brilliant-azure:hover{color:#3A86FF}
+.text-brilliant-azure p {color:#3A86FF}
+.link-brilliant-azure {color:#3A86FF}
+.link-hover-brilliant-azure:hover {color:#3A86FF;}
+.a-brilliant-azure a {color:#3A86FF;}
+.a-hover-brilliant-azure a:hover, .a-hover-brilliant-azure a:focus {color:#3A86FF;}
+.btn-brilliant-azure .btn {background-color:#3A86FF; border-color:#3A86FF;}
+.btn-brilliant-azure .btn .btn-hover:hover {background-color:#3A86FF; border-color:#3A86FF;}
+.input-brilliant-azure input, .input-brilliant-azure input:focus {background-color:#fff;border-color:#3A86FF}
+.bg-brilliant-azure {background-color:#3A86FF;}
+.bg-hover-brilliant-azure:hover {background-color:#3A86FF;}
+.bg-brilliant-azure-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-brilliant-azure .num {background-color:#3A86FF; color:#fff}
+.countdown-brilliant-azure .text {background-color:#fff; color:#3A86FF}
+.br-brilliant-azure {border-color:#3A86FF}
+.br-top-brilliant-azure {border-top-color:#3A86FF}
+.br-right-brilliant-azure {border-right-color:#3A86FF}
+.br-bottom-brilliant-azure {border-bottom-color:#3A86FF}
+.br-left-brilliant-azure {border-left-color:#3A86FF}
