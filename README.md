@@ -1,4 +1,4 @@
-# joomiColors.css
+# colors.css ex joomiColors.css
 ## Demo 
 * [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
 * [Bootstrap starter template adapted for joomiColors.css](https://templates.joomimart.com/demo/free/starter-template/starter-template.html)
