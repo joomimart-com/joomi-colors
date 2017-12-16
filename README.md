@@ -41,7 +41,7 @@ To begin using this joomiColors.css, choose one of the following options to get 
 1. Include the stylesheet on your document's `<head>`
   ```html
   <head>
-    <link rel="stylesheet" href="joomi-colors.css">
+    <link rel="stylesheet" href="colors.css">
   </head>
   ```
   or use the version hosted by [CDN joomiMart](https://cdn.joomimart.com/joomi-colors/1.0.2/css/joomi-colors.css) (Recommended - Now actively updated)
@@ -54,13 +54,13 @@ To begin using this joomiColors.css, choose one of the following options to get 
 3. Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
 
 ## Collection:
-* [Collection April 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-april-2017.css) - [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
+* [Collection April 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-april-2017.css) - [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
  ```html
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-april-2017.css">
   </head>
   ```
-* [Collection March 2017](https://github.com/joomimart-com/joomi-colors/blob/master/collection/joomi-colors-march-2017.css) - [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
+* [Collection March 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-march-2017.css) - [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
  ```html
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-march-2017.css">
@@ -69,9 +69,9 @@ To begin using this joomiColors.css, choose one of the following options to get 
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/joomimart-com/joomi-colors/issues) here on GitHub
+Have a bug or an issue with this template? [Open a new issue](https://github.com/pllano/colors.css/issues) here on GitHub
 
 ## Copyright and License
 
 Copyright 2014-2017 joomiMart.
-Code released under the [MIT](https://github.com/joomimart-com/joomi-colors/blob/master/LICENSE) license.
+Code released under the [MIT](https://github.com/pllano/colors.css/blob/master/LICENSE) license.
