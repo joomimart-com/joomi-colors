@@ -1,7 +1,7 @@
 # colors.css ex joomiColors.css
 ## Demo 
 * [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
-* [Bootstrap starter template adapted for joomiColors.css](https://templates.joomimart.com/demo/free/starter-template/starter-template.html)
+* [Bootstrap starter template adapted for colors.css](https://templates.joomimart.com/demo/free/starter-template/starter-template.html)
 * [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) - Free One Page HTML Template for Bootstrap 4 adapted for joomiColors.css
 
 ## 200+ Colors:
@@ -44,14 +44,14 @@ To begin using this joomiColors.css, choose one of the following options to get 
     <link rel="stylesheet" href="colors.css">
   </head>
   ```
-  or use the version hosted by [CDN joomiMart](https://cdn.joomimart.com/joomi-colors/1.0.2/css/joomi-colors.css) (Recommended - Now actively updated)
+  or use the version hosted by [CDN PLLANO](https://cdn.pllano.com/colors.css/1.0.3/css/colors.css) (Recommended - Now actively updated)
   ```html
   <head>
-    <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/1.0.2/css/joomi-colors.css">
+    <link rel="stylesheet" href="https://cdn.pllano.com/colors.css/1.0.3/css/colors.css">
   </head>
   ```
-2. [Download the latest release on joomi Templates](https://github.com/joomimart-com/joomi-colors/releases)
-3. Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
+2. [Download the latest release on joomi Templates](https://github.com/pllano/colors.css/releases)
+3. Clone the repo: `git clone https://github.com/pllano/colors.css.git`
 
 ## Collection:
 * [Collection January 2018](https://github.com/pllano/colors.css/blob/master/collection/colors-css-january-2018.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
@@ -60,16 +60,16 @@ To begin using this joomiColors.css, choose one of the following options to get 
     <link rel="stylesheet" href="https://cdn.pllano.com/colors.css/collection/colors-css-january-2018.css">
   </head>
   ```
-* [Collection April 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-april-2017.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
+* [Collection April 2017](https://github.com/pllano/colors.css/blob/master/collection/colors-css-april-2017.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
  ```html
   <head>
-    <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-april-2017.css">
+    <link rel="stylesheet" href="https://cdn.pllano.com/colors.css/collection/colors-css-april-2017.css">
   </head>
   ```
-* [Collection March 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-march-2017.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
+* [Collection March 2017](https://github.com/pllano/colors.css/blob/master/collection/colors-css-march-2017.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
  ```html
   <head>
-    <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-march-2017.css">
+    <link rel="stylesheet" href="https://cdn.pllano.com/colors.css/collection/colors-css-march-2017.css">
   </head>
   ```
 
