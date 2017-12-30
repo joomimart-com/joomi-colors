@@ -1,0 +1,218 @@
+/*
+Name: colors.css 
+Version: Collection January 2018
+Copyright 2014-2018 PLLANO
+URI: https://github.com/pllano/colors.css/blob/master/collection/colors-css-january-2018.css
+Author: PLLANO
+Licensed under [MIT](https://github.com/pllano/colors.css/blob/master/LICENSE)
+*/
+
+/* lava */
+.text-lava,.text-lava.text-color,.text-lava:focus,.text-lava:hover{color:#DD0E18}
+.text-lava p {color:#DD0E18}
+.link-lava {color:#DD0E18}
+.link-hover-lava:hover {color:#DD0E18;}
+.a-lava a {color:#DD0E18;}
+.a-hover-lava a:hover, .a-hover-lava a:focus {color:#DD0E18;}
+.btn-lava .btn {background-color:#DD0E18; border-color:#DD0E18;}
+.btn-lava .btn .btn-hover:hover {background-color:#DD0E18; border-color:#DD0E18;}
+.input-lava input, .input-lava input:focus {background-color:#fff;border-color:#DD0E18}
+.bg-lava {background-color:#DD0E18;}
+.bg-hover-lava:hover {background-color:#DD0E18;}
+.bg-lava-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-lava .num {background-color:#DD0E18; color:#fff}
+.countdown-lava .text {background-color:#fff; color:#DD0E18}
+.br-lava {border-color:#DD0E18}
+.br-top-lava {border-top-color:#DD0E18}
+.br-right-lava {border-right-color:#DD0E18}
+.br-bottom-lava {border-bottom-color:#DD0E18}
+.br-left-lava {border-left-color:#DD0E18}
+
+/* spartan-crimson */
+.text-spartan-crimson,.text-spartan-crimson.text-color,.text-spartan-crimson:focus,.text-spartan-crimson:hover{color:#A10B12}
+.text-spartan-crimson p {color:#A10B12}
+.link-spartan-crimson {color:#A10B12}
+.link-hover-spartan-crimson:hover {color:#A10B12;}
+.a-spartan-crimson a {color:#A10B12;}
+.a-hover-spartan-crimson a:hover, .a-hover-spartan-crimson a:focus {color:#A10B12;}
+.btn-spartan-crimson .btn {background-color:#A10B12; border-color:#A10B12;}
+.btn-spartan-crimson .btn .btn-hover:hover {background-color:#A10B12; border-color:#A10B12;}
+.input-spartan-crimson input, .input-spartan-crimson input:focus {background-color:#fff;border-color:#A10B12}
+.bg-spartan-crimson {background-color:#A10B12;}
+.bg-hover-spartan-crimson:hover {background-color:#A10B12;}
+.bg-spartan-crimson-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-spartan-crimson .num {background-color:#A10B12; color:#fff}
+.countdown-spartan-crimson .text {background-color:#fff; color:#A10B12}
+.br-spartan-crimson {border-color:#A10B12}
+.br-top-spartan-crimson {border-top-color:#A10B12}
+.br-right-spartan-crimson {border-right-color:#A10B12}
+.br-bottom-spartan-crimson {border-bottom-color:#A10B12}
+.br-left-spartan-crimson {border-left-color:#A10B12}
+
+/* red-devil */
+.text-red-devil,.text-red-devil.text-color,.text-red-devil:focus,.text-red-devil:hover{color:#8D0910}
+.text-red-devil p {color:#8D0910}
+.link-red-devil {color:#8D0910}
+.link-hover-red-devil:hover {color:#8D0910;}
+.a-red-devil a {color:#8D0910;}
+.a-hover-red-devil a:hover, .a-hover-red-devil a:focus {color:#8D0910;}
+.btn-red-devil .btn {background-color:#8D0910; border-color:#8D0910;}
+.btn-red-devil .btn .btn-hover:hover {background-color:#8D0910; border-color:#8D0910;}
+.input-red-devil input, .input-red-devil input:focus {background-color:#fff;border-color:#8D0910}
+.bg-red-devil {background-color:#8D0910;}
+.bg-hover-red-devil:hover {background-color:#8D0910;}
+.bg-red-devil-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-red-devil .num {background-color:#8D0910; color:#fff}
+.countdown-red-devil .text {background-color:#fff; color:#8D0910}
+.br-red-devil {border-color:#8D0910}
+.br-top-red-devil {border-top-color:#8D0910}
+.br-right-red-devil {border-right-color:#8D0910}
+.br-bottom-red-devil {border-bottom-color:#8D0910}
+.br-left-red-devil {border-left-color:#8D0910}
+
+/* up-maroon */
+.text-up-maroon,.text-up-maroon.text-color,.text-up-maroon:focus,.text-up-maroon:hover{color:#79080E}
+.text-up-maroon p {color:#79080E}
+.link-up-maroon {color:#79080E}
+.link-hover-up-maroon:hover {color:#79080E;}
+.a-up-maroon a {color:#79080E;}
+.a-hover-up-maroon a:hover, .a-hover-up-maroon a:focus {color:#79080E;}
+.btn-up-maroon .btn {background-color:#79080E; border-color:#79080E;}
+.btn-up-maroon .btn .btn-hover:hover {background-color:#79080E; border-color:#79080E;}
+.input-up-maroon input, .input-up-maroon input:focus {background-color:#fff;border-color:#79080E}
+.bg-up-maroon {background-color:#79080E;}
+.bg-hover-up-maroon:hover {background-color:#79080E;}
+.bg-up-maroon-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-up-maroon .num {background-color:#79080E; color:#fff}
+.countdown-up-maroon .text {background-color:#fff; color:#79080E}
+.br-up-maroon {border-color:#79080E}
+.br-top-up-maroon {border-top-color:#79080E}
+.br-right-up-maroon {border-right-color:#79080E}
+.br-bottom-up-maroon {border-bottom-color:#79080E}
+.br-left-up-maroon {border-left-color:#79080E}
+
+/* bulgarian-rose */
+.text-bulgarian-rose,.text-bulgarian-rose.text-color,.text-bulgarian-rose:focus,.text-bulgarian-rose:hover{color:#510609}
+.text-bulgarian-rose p {color:#510609}
+.link-bulgarian-rose {color:#510609}
+.link-hover-bulgarian-rose:hover {color:#510609;}
+.a-bulgarian-rose a {color:#510609;}
+.a-hover-bulgarian-rose a:hover, .a-hover-bulgarian-rose a:focus {color:#510609;}
+.btn-bulgarian-rose .btn {background-color:#510609; border-color:#510609;}
+.btn-bulgarian-rose .btn .btn-hover:hover {background-color:#510609; border-color:#510609;}
+.input-bulgarian-rose input, .input-bulgarian-rose input:focus {background-color:#fff;border-color:#510609}
+.bg-bulgarian-rose {background-color:#510609;}
+.bg-hover-bulgarian-rose:hover {background-color:#510609;}
+.bg-bulgarian-rose-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-bulgarian-rose .num {background-color:#510609; color:#fff}
+.countdown-bulgarian-rose .text {background-color:#fff; color:#510609}
+.br-bulgarian-rose {border-color:#510609}
+.br-top-bulgarian-rose {border-top-color:#510609}
+.br-right-bulgarian-rose {border-right-color:#510609}
+.br-bottom-bulgarian-rose {border-bottom-color:#510609}
+.br-left-bulgarian-rose {border-left-color:#510609}
+
+/* pictorial-carmine */
+.text-pictorial-carmine,.text-pictorial-carmine.text-color,.text-pictorial-carmine:focus,.text-pictorial-carmine:hover{color:#CF0A4E}
+.text-pictorial-carmine p {color:#CF0A4E}
+.link-pictorial-carmine {color:#CF0A4E}
+.link-hover-pictorial-carmine:hover {color:#CF0A4E;}
+.a-pictorial-carmine a {color:#CF0A4E;}
+.a-hover-pictorial-carmine a:hover, .a-hover-pictorial-carmine a:focus {color:#CF0A4E;}
+.btn-pictorial-carmine .btn {background-color:#CF0A4E; border-color:#CF0A4E;}
+.btn-pictorial-carmine .btn .btn-hover:hover {background-color:#CF0A4E; border-color:#CF0A4E;}
+.input-pictorial-carmine input, .input-pictorial-carmine input:focus {background-color:#fff;border-color:#CF0A4E}
+.bg-pictorial-carmine {background-color:#CF0A4E;}
+.bg-hover-pictorial-carmine:hover {background-color:#CF0A4E;}
+.bg-pictorial-carmine-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-pictorial-carmine .num {background-color:#CF0A4E; color:#fff}
+.countdown-pictorial-carmine .text {background-color:#fff; color:#CF0A4E}
+.br-pictorial-carmine {border-color:#CF0A4E}
+.br-top-pictorial-carmine {border-top-color:#CF0A4E}
+.br-right-pictorial-carmine {border-right-color:#CF0A4E}
+.br-bottom-pictorial-carmine {border-bottom-color:#CF0A4E}
+.br-left-pictorial-carmine {border-left-color:#CF0A4E}
+
+/* razzmatazz */
+.text-razzmatazz,.text-razzmatazz.text-color,.text-razzmatazz:focus,.text-razzmatazz:hover{color:#E5205C}
+.text-razzmatazz p {color:#E5205C}
+.link-razzmatazz {color:#E5205C}
+.link-hover-razzmatazz:hover {color:#E5205C;}
+.a-razzmatazz a {color:#E5205C;}
+.a-hover-razzmatazz a:hover, .a-hover-razzmatazz a:focus {color:#E5205C;}
+.btn-razzmatazz .btn {background-color:#E5205C; border-color:#E5205C;}
+.btn-razzmatazz .btn .btn-hover:hover {background-color:#E5205C; border-color:#E5205C;}
+.input-razzmatazz input, .input-razzmatazz input:focus {background-color:#fff;border-color:#E5205C}
+.bg-razzmatazz {background-color:#E5205C;}
+.bg-hover-razzmatazz:hover {background-color:#E5205C;}
+.bg-razzmatazz-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-razzmatazz .num {background-color:#E5205C; color:#fff}
+.countdown-razzmatazz .text {background-color:#fff; color:#E5205C}
+.br-razzmatazz {border-color:#E5205C}
+.br-top-razzmatazz {border-top-color:#E5205C}
+.br-right-razzmatazz {border-right-color:#E5205C}
+.br-bottom-razzmatazz {border-bottom-color:#E5205C}
+.br-left-razzmatazz {border-left-color:#E5205C}
+
+/* razzmatazz-dark */
+.text-razzmatazz-dark,.text-razzmatazz-dark.text-color,.text-razzmatazz-dark:focus,.text-razzmatazz-dark:hover{color:#EF2967}
+.text-razzmatazz-dark p {color:#EF2967}
+.link-razzmatazz-dark {color:#EF2967}
+.link-hover-razzmatazz-dark:hover {color:#EF2967;}
+.a-razzmatazz-dark a {color:#EF2967;}
+.a-hover-razzmatazz-dark a:hover, .a-hover-razzmatazz-dark a:focus {color:#EF2967;}
+.btn-razzmatazz-dark .btn {background-color:#EF2967; border-color:#EF2967;}
+.btn-razzmatazz-dark .btn .btn-hover:hover {background-color:#EF2967; border-color:#EF2967;}
+.input-razzmatazz-dark input, .input-razzmatazz-dark input:focus {background-color:#fff;border-color:#EF2967}
+.bg-razzmatazz-dark {background-color:#EF2967;}
+.bg-hover-razzmatazz-dark:hover {background-color:#EF2967;}
+.bg-razzmatazz-dark-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-razzmatazz-dark .num {background-color:#EF2967; color:#fff}
+.countdown-razzmatazz-dark .text {background-color:#fff; color:#EF2967}
+.br-razzmatazz-dark {border-color:#EF2967}
+.br-top-razzmatazz-dark {border-top-color:#EF2967}
+.br-right-razzmatazz-dark {border-right-color:#EF2967}
+.br-bottom-razzmatazz-dark {border-bottom-color:#EF2967}
+.br-left-razzmatazz-dark {border-left-color:#EF2967}
+
+/* sasquatch-socks */
+.text-sasquatch-socks,.text-sasquatch-socks.text-color,.text-sasquatch-socks:focus,.text-sasquatch-socks:hover{color:#FA3F7A}
+.text-sasquatch-socks p {color:#FA3F7A}
+.link-sasquatch-socks {color:#FA3F7A}
+.link-hover-sasquatch-socks:hover {color:#FA3F7A;}
+.a-sasquatch-socks a {color:#FA3F7A;}
+.a-hover-sasquatch-socks a:hover, .a-hover-sasquatch-socks a:focus {color:#FA3F7A;}
+.btn-sasquatch-socks .btn {background-color:#FA3F7A; border-color:#FA3F7A;}
+.btn-sasquatch-socks .btn .btn-hover:hover {background-color:#FA3F7A; border-color:#FA3F7A;}
+.input-sasquatch-socks input, .input-sasquatch-socks input:focus {background-color:#fff;border-color:#FA3F7A}
+.bg-sasquatch-socks {background-color:#FA3F7A;}
+.bg-hover-sasquatch-socks:hover {background-color:#FA3F7A;}
+.bg-sasquatch-socks-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-sasquatch-socks .num {background-color:#FA3F7A; color:#fff}
+.countdown-sasquatch-socks .text {background-color:#fff; color:#FA3F7A}
+.br-sasquatch-socks {border-color:#FA3F7A}
+.br-top-sasquatch-socks {border-top-color:#FA3F7A}
+.br-right-sasquatch-socks {border-right-color:#FA3F7A}
+.br-bottom-sasquatch-socks {border-bottom-color:#FA3F7A}
+.br-left-sasquatch-socks {border-left-color:#FA3F7A}
+
+/* strawberry */
+.text-strawberry,.text-strawberry.text-color,.text-strawberry:focus,.text-strawberry:hover{color:#FA5A8D}
+.text-strawberry p {color:#FA5A8D}
+.link-strawberry {color:#FA5A8D}
+.link-hover-strawberry:hover {color:#FA5A8D;}
+.a-strawberry a {color:#FA5A8D;}
+.a-hover-strawberry a:hover, .a-hover-strawberry a:focus {color:#FA5A8D;}
+.btn-strawberry .btn {background-color:#FA5A8D; border-color:#FA5A8D;}
+.btn-strawberry .btn .btn-hover:hover {background-color:#FA5A8D; border-color:#FA5A8D;}
+.input-strawberry input, .input-strawberry input:focus {background-color:#fff;border-color:#FA5A8D}
+.bg-strawberry {background-color:#FA5A8D;}
+.bg-hover-strawberry:hover {background-color:#FA5A8D;}
+.bg-strawberry-transparent {background-color:rgba(0, 0, 0, 0.5);}
+.countdown-strawberry .num {background-color:#FA5A8D; color:#fff}
+.countdown-strawberry .text {background-color:#fff; color:#FA5A8D}
+.br-strawberry {border-color:#FA5A8D}
+.br-top-strawberry {border-top-color:#FA5A8D}
+.br-right-strawberry {border-right-color:#FA5A8D}
+.br-bottom-strawberry {border-bottom-color:#FA5A8D}
+.br-left-strawberry {border-left-color:#FA5A8D}
