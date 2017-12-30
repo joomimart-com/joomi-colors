@@ -1,10 +1,10 @@
 # colors.css ex joomiColors.css
 ## Demo 
-* [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
+* [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
 * [Bootstrap starter template adapted for joomiColors.css](https://templates.joomimart.com/demo/free/starter-template/starter-template.html)
 * [joomi-Mini-Mo](https://templates.joomimart.com/demo/free/joomi-mini-mo/demo.html) - Free One Page HTML Template for Bootstrap 4 adapted for joomiColors.css
 
-## 170+ Colors:
+## 200+ Colors:
 * grey-*: `grey-xs`, `grey-sm`, `grey-md`, `grey-lg`, `grey-xl`, `grey-xxl`
 * primary-*: `primary-xs`, `primary-sm`, `primary-md`, `primary-lg`, `primary-xl`, `primary-xxl`
 * success-*: `success-xs`, `success-sm`, `success-md`, `success-lg`, `success-xl`, `success-xxl`
@@ -54,13 +54,19 @@ To begin using this joomiColors.css, choose one of the following options to get 
 3. Clone the repo: `git clone https://github.com/joomimart-com/joomi-mini-mo.git`
 
 ## Collection:
-* [Collection April 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-april-2017.css) - [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
+* [Collection January 2018](https://github.com/pllano/colors.css/blob/master/collection/colors-css-january-2018.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
+ ```html
+  <head>
+    <link rel="stylesheet" href="https://cdn.pllano.com/colors.css/collection/colors-css-january-2018.css">
+  </head>
+  ```
+* [Collection April 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-april-2017.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
  ```html
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-april-2017.css">
   </head>
   ```
-* [Collection March 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-march-2017.css) - [Demo](https://cdn.joomimart.com/joomi-colors/colors-demo.html)
+* [Collection March 2017](https://github.com/pllano/colors.css/blob/master/collection/joomi-colors-march-2017.css) - [Demo](https://cdn.pllano.com/colors.css/colors-demo.html)
  ```html
   <head>
     <link rel="stylesheet" href="https://cdn.joomimart.com/joomi-colors/collection/joomi-colors-march-2017.css">
